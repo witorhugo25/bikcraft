@@ -3,11 +3,14 @@
 @import "./global/header.css";
 
 @import "./home/introduçao.css";
+@import "./home/tecnologia.css";
 
 @import "./ultilidades/componentes.css";
 
 @import "./ultilidades/tipografia.css";
 
 @import "./ultilidades/cores.css";
+
+@import "./bicicletas/bicicleta-lista.css";
 
 
