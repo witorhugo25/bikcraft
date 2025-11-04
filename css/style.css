@@ -2,15 +2,19 @@
 
 @import "./global/header.css";
 
+/* home */
 @import "./home/introduçao.css";
 @import "./home/tecnologia.css";
+@import "./home/parceiros.css";
+@import "./home/depoimento.css";
 
+
+/* ultilidades */
 @import "./ultilidades/componentes.css";
-
 @import "./ultilidades/tipografia.css";
-
 @import "./ultilidades/cores.css";
 
+/* bicicletas */
 @import "./bicicletas/bicicleta-lista.css";
 
 
